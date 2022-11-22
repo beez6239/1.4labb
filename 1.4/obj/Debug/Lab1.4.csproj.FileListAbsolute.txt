@@ -1,0 +1,15 @@
+E:\New folder\bin\Debug\Lab1.4.exe.config
+E:\New folder\bin\Debug\Lab1.4.exe
+E:\New folder\bin\Debug\Lab1.4.pdb
+E:\New folder\obj\Debug\Lab1.4.csproj.AssemblyReference.cache
+E:\New folder\obj\Debug\Lab1._4.Form1.resources
+E:\New folder\obj\Debug\Lab1._4.Properties.Resources.resources
+E:\New folder\obj\Debug\Lab1.4.csproj.GenerateResource.cache
+E:\New folder\obj\Debug\Lab1.4.csproj.CoreCompileInputs.cache
+E:\New folder\obj\Debug\Lab1.4.exe
+E:\New folder\obj\Debug\Lab1.4.pdb
+E:\New folder\bin\Debug\Interop.WMPLib.dll
+E:\New folder\bin\Debug\AxInterop.WMPLib.dll
+E:\New folder\obj\Debug\Interop.WMPLib.dll
+E:\New folder\obj\Debug\AxInterop.WMPLib.dll
+E:\New folder\obj\Debug\Lab1.4.csproj.ResolveComReference.cache
